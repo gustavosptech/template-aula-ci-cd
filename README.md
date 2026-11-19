@@ -12,7 +12,7 @@ Nesta primeira etapa, você deve:
 2. **Analisar os erros** retornados pelos testes
 3. **Implementar ou corrigir a lógica** do código para que todos os testes passem
 4. **Corrigir erros de tipagem** que estão acontecendo no componente, aproveitando os tipos já criados no arquivo `types.ts`, e criando novos tipos quando necessário
-5. **Validar** que todos os testes executam com sucesso
+5. **Validar** que todos os testes executam com sucesso.
 
 **Objetivo alcançado quando:** Todos os testes passarem sem erros.
 
